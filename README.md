@@ -1,1 +1,1 @@
-# gxnow
+# Official GXNow Github Repo
