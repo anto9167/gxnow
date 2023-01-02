@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@300&display=swap');
+body {
+    background-color: black;
+    place-items: center;
+}
+.button {
+  font-family: 'Anybody', cursive;
+  background-color: white;
+  border: none;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  box-shadow: 0 0 10px 0 #FFFFFF;
+}
+
+h3 {
+    font-family: 'Anybody', cursive;
+    color: white;
+}
